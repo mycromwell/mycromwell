@@ -6,7 +6,6 @@
         the time, this is called demand. Every stock, car, piece of technology, or even a gold brick will always have demand
         for it at any given time and trading is all about knowing when its likey for demand of a product to go up or go down
         given the variety of factors related to the underlaying product at the time.
-
         For example if a beyblade comerial starts to get kids interested in buying their toys, the demand
         for beyblades will go up. Now image only 100 beyblades are released by the company who
         makes them, if 100 people buy up all the beyblades priced at $10, the first person who doesnt want 
